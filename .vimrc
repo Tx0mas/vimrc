@@ -2,7 +2,7 @@
 set number
 set relativenumber
 set signcolumn=yes
-set cursorline
+"set cursorline
 set scrolloff=5
 set nowrap
 
